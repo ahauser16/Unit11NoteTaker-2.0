@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family:helvetica;
+
+}
+
+h1 {
+    color: white;
+    font-size: 300px;
+    font-weight: 900px;
+    margin: 0;
+    text-transform: uppercase;
+    text-align: center;
+    background-img: url ("bg.jpeg");
+    background-size:cover;
+    background-position: center;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
